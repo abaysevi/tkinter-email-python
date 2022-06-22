@@ -1,0 +1,12 @@
+In chapter 2.5, Dan discusses the different ways to do string formatting in
+Python. String formatting is one of those things that defy the Zen of
+Python, that there should only be one obvious way to do things. Dan shows
+us the different ways, including my favorite new addition to the language,
+the f-strings, and he also explains the pros and cons of each method.
+The Pythonic Productivity Techniques section is another great resource. It
+covers aspects beyond the Python programming language, and also
+includes tips on how to debug your programs, how to manage the
+dependencies, and gives you a peek inside Python bytecode.
+It truly is an honor and my pleasure to introduce this book, Python Tricks,
+by my friend, Dan Bader.
+By contributing to Python as a CPython core developer, I get connected to
